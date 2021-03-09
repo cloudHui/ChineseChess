@@ -6,4 +6,4 @@
 <br/>
 在QQ象棋与高手对弈80%以上胜率》
 <br/>
-启动类 com/pj/chess/ChessBoardMain
+启动类 com/sm/chess/ChessBoardMain
